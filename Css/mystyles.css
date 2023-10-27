@@ -1,0 +1,46 @@
+* {
+    font-style:Arial,Helvetica,sans-serif;    
+}
+
+header {
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+h1 {
+    padding:3px;
+}
+
+nav {
+    padding: 3px;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+}
+
+a {
+    padding: 25px;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: 2px solid green;
+    border-bottom: 2px solid green;
+    margin-right: 25px;
+    margin-left: 25px;
+
+}
+
+a:hover {
+    background-color: aquamarine;
+    color:black;
+    padding: 25px;
+    
+}
+
+article {
+    
+}
